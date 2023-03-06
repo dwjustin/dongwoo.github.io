@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - dwjustin
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - dwjustin/DeepLearning-from-Scratch-3-Study_2022-Summer
+  - dwjustin/cs182-deep-neural-network
+  - dwjustin/group13
